@@ -12,3 +12,6 @@ O jogo é jogado por turnos, onde o jogador tenta adivinhar a palavra secreta e 
 - Após cada tentativa, você receberá feedback sobre as letras corretas e em suas posições corretas.
 - Você tem um número limitado de 7 tentativas para adivinhar a palavra.
 - Se você adivinhar a palavra corretamente, você ganha o jogo. Caso contrário, você perde.
+
+![Jogo da Forca](caminho/para/imagem.png)
+

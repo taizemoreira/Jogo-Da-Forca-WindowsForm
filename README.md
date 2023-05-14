@@ -13,5 +13,5 @@ O jogo é jogado por turnos, onde o jogador tenta adivinhar a palavra secreta e 
 - Você tem um número limitado de 7 tentativas para adivinhar a palavra.
 - Se você adivinhar a palavra corretamente, você ganha o jogo. Caso contrário, você perde.
 
-![Jogo da Forca](https://github.com/taizemoreira/Jogo-Da-Forca-WindowsForm/tree/master/JogoDaForcaForm/Resources/img_jogo.png)
+![Jogo da Forca]([https://github.com/taizemoreira/Jogo-Da-Forca-WindowsForm/tree/master/JogoDaForcaForm/Resources/img_jogo.png](https://github.com/taizemoreira/Jogo-Da-Forca-WindowsForm/blob/master/JogoDaForcaForm/Resources/img_jogo.png)
 
